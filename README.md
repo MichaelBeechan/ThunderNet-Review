@@ -1,5 +1,6 @@
 # ThunderNet-Review
 
+# ThunderNet: Towards Real-time Generic Object Detection
 论文下载：链接：https://pan.baidu.com/s/1v2gIkhqR5nqBszo5BmNVkw  提取码：f59z 
 https://arxiv.org/pdf/1903.11752.pdf
 
@@ -13,10 +14,11 @@ https://blog.csdn.net/u011344545/article/details/88913042
 # 引言
 移动设备上通用对象的实时检测是计算机视觉领域的一项重要而又具有挑战性的任务。与服务器级gpu相比，移动设备计算受限，对检测器的计算成本提出了更严格的限制。然而，现代基于cnn的检测器资源匮乏，需要大量的计算才能达到理想的检测精度，这阻碍了它们在移动场景中的实时推理。
 
-## ThunderNet的总体架构
+# ThunderNet的总体架构
 ThunderNet的输入分辨率为320×320像素。SNet骨干网是基于ShuffleNetV2是专门为对象检测而设计的。检测部分对RPN进行压缩，R-CNN子网采用1024-d fc层，效率更高。上下文增强模块利用来自多个尺度的语义和上下文信息。空间注意模块引入RPN中的信息来细化特征分布。
 
-## 相关工作
+# 相关工作
 
-# 1、CNN-based object detectors（基于CNN的目标检测器）——一般分为一步法和二步法
+## 1、CNN-based object detectors（基于CNN的目标检测器）——一般分为一步法和二步法
+
 
