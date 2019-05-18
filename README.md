@@ -34,82 +34,114 @@ You Only Look Once: Unified, Real-Time Object Detection
 https://arxiv.org/pdf/1506.02640.pdf
 
 ## Yolo9000: better, faster, stronger
+
 https://arxiv.org/pdf/1612.08242.pdf
 
 ## Yolov3: Anincrementalimprovement
+
 https://arxiv.org/pdf/1804.02767.pdf
+
 https://pjreddie.com/    YOLO主页
 
 ## SSD：
 Ssd: Single shot multibox detector.
 
 https://arxiv.org/pdf/1512.02325.pdf    论文
+
 https://zhuanlan.zhihu.com/p/31427288  知乎
+
 https://github.com/MichaelBeechan/SSD-Tensorflow    代码
 
 ## MobileNet-SSD：
 https://arxiv.org/pdf/1704.04861.pdf    论文
+
 https://github.com/MichaelBeechan/MobileNet-SSD   代码
 
 ## MobileNetV2-SSDLite： 
 Mobilenetv2: Inverted residuals and linear bottlenecks.
-https://arxiv.org/pdf/1801.04381v3.pdf    论文
+
+https://arxiv.org/pdf/1801.04381v3.pdf    
+
 https://github.com/MichaelBeechan/MobileNetv2-SSDLite  代码
+
 https://github.com/MichaelBeechan/MobileNetv2
 
 ## Tiny-DSOD：
 Tiny-dsod: Lightweight object detection for resource-restricted usages  
+
 https://arxiv.org/pdf/1807.11013.pdf   论文
-https://github.com/MichaelBeechan/Tiny-DSOD     代码
+
+https://github.com/MichaelBeechan/Tiny-DSOD  代码
 
 ## Light-Head R-CNN：
 Light-head r-cnn: In defense of two-stage object detector
+
 https://arxiv.org/pdf/1807.11013.pdf
+
 https://github.com/MichaelBeechan/light_head_rcnn
 
 ## RetinaNet：
-Focal Loss for Dense Object Detection 
+Focal Loss for Dense Object Detection
+
 https://arxiv.org/pdf/1708.02002.pdf
+
 https://github.com/MichaelBeechan/keras-retinanet
 
 ## CornerNet：
 CornerNet: Detecting Objects as Paired Keypoints 
+
 https://arxiv.org/pdf/1808.01244.pdf
+
 https://github.com/MichaelBeechan/CornerNet
 
 ## 3、Backbone networks for detection
 
 ## Feature pyramid networks for object detection
 https://arxiv.org/pdf/1612.03144.pdf
+
 https://github.com/MichaelBeechan/FPN
+
 https://github.com/MichaelBeechan/FPN_Tensorflow
 
 ## MobileNet：
 ShuffleNet：
+
 Shufflenet: An extremelyefficientconvolutionalneuralnetworkformobiledevices
+
 https://arxiv.org/pdf/1707.01083.pdf
+
 https://github.com/MichaelBeechan/ShuffleNet
+
 https://github.com/MichaelBeechan/ShuffleNet-1
 
 ## DetNet：
 DetNet: A Backbone network for Object Detection 
+
 https://arxiv.org/pdf/1804.06215.pdf
+
 https://github.com/MichaelBeechan/DetNet_pytorch
 
 
 # 实验
 
 ## 实验所用数据集 ：PASCAL VOC  and  COCO
-ThePascalVisual Object Classes Challenge: A Retrospective 
+ThePascalVisual Object Classes Challenge: A Retrospective
+
 https://link.springer.com/content/pdf/10.1007%2Fs11263-014-0733-5.pdf
+
 [benchmark.tgz](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/semantic_contours/benchmark.tgz)
+
 https://blog.csdn.net/u011344545/article/details/84977173
+
 https://github.com/MichaelBeechan/CV-Datasets
 
 ## Microsoft coco: Common objects in context
 https://arxiv.org/pdf/1405.0312.pdf
+
 https://github.com/MichaelBeechan/cocoapi
+
 http://cocodataset.org/#download
+
 http://cocodataset.org/
 
 Context Enhancement Module与Spatial Attention Module
