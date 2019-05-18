@@ -30,9 +30,10 @@ https://blog.csdn.net/u011344545/article/details/88913042
 
 ## YOLO：
 You Only Look Once: Unified, Real-Time Object Detection 
+
 https://arxiv.org/pdf/1506.02640.pdf
 
-## Yolo9000: better, faster, stronger.
+## Yolo9000: better, faster, stronger
 https://arxiv.org/pdf/1612.08242.pdf
 
 ## Yolov3: Anincrementalimprovement
@@ -41,7 +42,8 @@ https://pjreddie.com/    YOLO主页
 
 ## SSD：
 Ssd: Single shot multibox detector.
-https://arxiv.org/pdf/1512.02325.pdf         论文
+
+https://arxiv.org/pdf/1512.02325.pdf    论文
 https://zhuanlan.zhihu.com/p/31427288  知乎
 https://github.com/MichaelBeechan/SSD-Tensorflow    代码
 
